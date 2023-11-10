@@ -12,9 +12,9 @@ Voici les fonctionnalités à implémenter :
 * Un système social, où les utilisateurs peuvent s'ajouter en amis, se bloquer, s'inviter à des parties de Pong, voir la partie de Pong de leurs amis en direct (mode spectateur).
 * Technologies utilisées :
 
-Backend : NestJS et Prisma/PostgreSQL pour la base de données.
-Frontend : Typescript et React.
-Docker.
+Backend : NestJS et Prisma/PostgreSQL pour la base de données. <br/>
+Frontend : Typescript et React. <br/>
+Docker. <br/>
 
 🇺🇸
 
