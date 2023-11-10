@@ -15,6 +15,7 @@ Voici les fonctionnalités à implémenter :
 Backend : NestJS et Prisma/PostgreSQL pour la base de données.
 Frontend : Typescript et React.
 Docker.
+
 🇺🇸
 
 ft_transcendence is the last project of the common core of the School 42, consisting in creating a website.
